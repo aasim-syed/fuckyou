@@ -1,4 +1,4 @@
-import { transcribe } from "../server/handlers";
+import { transcribe } from "../server/handlers.js";
 
 export const config = { runtime: "nodejs" };
 

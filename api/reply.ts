@@ -1,4 +1,4 @@
-import { reply } from "../server/handlers";
+import { reply } from "../server/handlers.js";
 
 export const config = { runtime: "nodejs" };
 
